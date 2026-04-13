@@ -20,7 +20,7 @@ Cada pasta abaixo representa um módulo completo, contendo o diagrama lógico e 
 | `IMC` | Algoritmo de saúde para cálculo de massa corporal e diagnóstico. | ✅ |
 | `Média Trapézio` | Aplicação de fórmulas matemáticas em geometria plana. | ✅ |
 | `Médias` | Sistema de entrada de dados e média aritmética acadêmica. | ✅ |
-| `Soma` | Lógica básica de operadores e manipulação de memória. | ✅ |
+| `Soma` | Lógica básica de operadores. | ✅ |
 | `Temperatura` | Conversor de escalas termométricas (Cº para Fº). | ✅ |
 
 ---
@@ -31,4 +31,4 @@ Em cada diretório, você encontrará:
 2.  **Código-Fonte:** Arquivo `.alg` pronto para rodar no Visualg.
 
 ---
-> *Desenvolvido com foco em boas práticas e estruturação de pensamento lógico.*
+> *Desenvolvido por Gabriel Pereira Dias, no SENAI A. Jacob lafer.*
